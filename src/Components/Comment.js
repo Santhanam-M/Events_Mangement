@@ -33,7 +33,7 @@ const Comment = () => {
             endAdornment: (
               <IconButton
                 type="submit"
-                color="secondary"
+                color="success"
                 aria-label="send"
                 size="small"
               >
